@@ -1,0 +1,17 @@
+<llamadas>
+    <llamada>
+        <nombre>Diana</nombre>
+        <numero>5550536030</numero>
+        <tipo>Entrante</tipo>
+    </llamada>
+        <llamada>
+        <nombre>Luis</nombre>
+        <numero>5518092715</numero>
+        <tipo>Entrante</tipo>
+    </llamada>
+        <llamada>
+        <nombre>Rodrigo</nombre>
+        <numero>5557586023</numero>
+        <tipo>Salida</tipo>
+    </llamada>
+</llamadas>

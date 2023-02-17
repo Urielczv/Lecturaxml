@@ -1,0 +1,22 @@
+<soapenv:Body>
+<mid:excuete>
+<request>
+<xmlRegistroDeLlamadas>
+    <xmlLlamadas>
+        <registro>
+            <fecha>1 feb</fecha>
+            <hora>10:00 AM</hora>
+        </registro>
+        <registro>
+            <fecha>15 feb</fecha>
+            <hora>2:00 PM</hora>
+        </registro>
+        <registro>
+            <fecha>27 feb</fecha>
+            <hora>9:15 AM</hora>
+        </registro>
+    </xmlLlamadas>
+</xmlRegistroDeLlamadas>
+</request>
+</mid:excuete>
+</soapenv:Body>
